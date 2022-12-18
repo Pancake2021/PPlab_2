@@ -1,5 +1,5 @@
 import os
-from typing import Optional, Union
+from typing import Union
 
 
 def get_next_element(class_mark: str) -> Union[str, None]: # Optional[str]:
