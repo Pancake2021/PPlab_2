@@ -75,4 +75,5 @@ class IteratorTask3:
             raise StopIteration
 
     def __iter__(self):
+        '''iterator defining'''
         return self
